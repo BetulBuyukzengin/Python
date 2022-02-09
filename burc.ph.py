@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Betül Büyükzengin
-201713171064
 
-
-"""
 print("Burc programi.....")
 gun = int(input("Lütfen dogum tarihinizin gününü giriniz: "))
 ay = input("Lütfen dogum tarihinizin ayını giriniz:  ")
