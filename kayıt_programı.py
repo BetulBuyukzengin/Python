@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  9 15:12:50 2022
-
-@author: betul
-"""
-
 #*******************************************OYUNCU KAYDETME PROGRAMI*********************************************
 print ("Oyuncu Kaydetme Programına Hoşgeldiniz...")
 ad=input("Adınız: ")
