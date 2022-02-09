@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 14 15:59:29 2021
 
-@author: Betül Büyükzengin
-         201713171064
-"""
 print("HAYVAN TAKVİMİ")
 yil=int(input("Doğum yılınızı girin:"))
 
